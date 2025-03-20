@@ -22,6 +22,7 @@ const allowedOrigins = [
   'https://webscrapping-seven.vercel.app',
   'https://agromitra.vercel.app',
   'http://localhost:3000',
+  'https://agrimart-eight.vercel.app',
   process.env.FRONTEND_URL
 ].filter(Boolean);
 
